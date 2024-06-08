@@ -1,8 +1,8 @@
 # import moduleas
-import random as rd
-import pygame as pg
 import sys
+
 import functions
+import pygame as pg
 
 # initialize pygame
 pg.init()

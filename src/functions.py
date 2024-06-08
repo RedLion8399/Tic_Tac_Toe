@@ -1,6 +1,7 @@
 # import moduleas
 import pygame as pg
 
+
 # draw x
 def draw_x(x, y, screen, color):
     pg.draw.line(screen, color, (x, y), (x + 200, y + 200), 5)
